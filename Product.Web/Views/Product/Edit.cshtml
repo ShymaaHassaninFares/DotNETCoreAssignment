@@ -1,0 +1,170 @@
+﻿@model UpdateProductModel
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+
+<div class="col-11 mx-auto pt-0 p-0">
+    <div class="card">
+
+        <div class="card-header bg-secondary text-uppercase text-white text-center" style="height:40px;">
+            <h5>Edit Product</h5>
+        </div>
+        <!-- Form Area-->
+        <form asp-action="Edit" enctype="multipart/form-data" onsubmit="return ValidateForm()">
+
+            <div class="btn-group">
+
+                <div class="col-8">
+                    <div class="row">
+
+                        <div class="form-group col-6">
+                            <label asp-for="Name" class="control-label"></label>
+                            <input asp-for="Name" class="form-control" />
+                            <span asp-validation-for="Name" class="text-danger"></span>
+                        </div>
+
+                        <div class="form-group col-6">
+                            <label asp-for="Price" class="control-label"></label>
+                            <input asp-for="Price" class="form-control" />
+                            <span asp-validation-for="Price" class="text-danger"></span>
+                        </div>
+
+                        <div class="form-group col-6">
+                            <label asp-for="Quantity" class="control-label"></label>
+                            <input asp-for="Quantity" class="form-control" />
+                            <span asp-validation-for="Quantity" class="text-danger"></span>
+                        </div>
+
+                        <div class="form-group col-6">
+                            <label asp-for="CategoryId" class="control-label"></label>
+                            <select asp-for="CategoryId" class="form-control" asp-items="ViewBag.Categories"></select>
+                            <span asp-validation-for="CategoryId" class="text-danger"></span>
+                        </div>
+
+                    </div>
+                </div>
+
+                <div class="col-4 row">
+                    <div class="form-group col-12 justify-content-center align-middle mb-0 pb-0">
+                        <img id="PreviewPhoto" src="~/images/@Model.ImgURL" alt="Logo Image"
+                             width="300" height="300" style="border:1px ;margin-top:30px; " />
+                    </div>
+
+                    <div class="form-group col-2 pt-0 mt-0">
+                    </div>
+
+                    <input type="hidden" asp-for="ImgURL" id="ImgURL" value="Error" />
+
+                    <div class="form-group">
+                        <span class="text-danger invisible" id="ImageError">Please choose image</span>
+                    </div>
+
+                    <div class="form-group col-10 pt-0 mt-0">
+                        <div class="custom-file">
+                            <input asp-for="ProductPhoto" class="custom-file-input" id="customFile">
+                            <label class="custom-file-label" for="customFile">Browse Photo</label>
+                        </div>
+                    </div>
+                </div>
+
+
+            </div>
+
+
+            <div class="form-group btn-group col-10">
+                <div class="col-1"></div>
+                <div class="col-5">
+                    <input type="submit" value="Update" class="btn btn-primary btn-block" />
+                </div>
+                <div class="col-5">
+                    <a class="btn btn-secondary btn-block" asp-action="index"
+                       asp-route-pg="@TempData.Peek("CurrentPage")">Back</a>
+                </div>
+                <div class="col-1"></div>
+            </div>
+
+        </form>
+
+    </div>
+</div>
+
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+
+
+    <script>
+
+        $(".custom-file-input").on("change", function () {
+
+            document.getElementById('ImageError').classList.add("invisible");
+            document.getElementById('ImageError').classList.remove("visible");
+
+            var fsize = $(this)[0].files[0].size;
+
+            var fileName = $(this).val().split("\\").pop();
+
+            var fileExt = fileName.split('.').pop();
+
+
+            var error = IsImageValid(fsize, fileExt);
+            if (error != "") {
+
+                document.getElementById('ImageError').innerText = error;
+                document.getElementById('ImageError').classList.remove("invisible");
+                document.getElementById('ImageError').classList.add("visible");
+                return;
+            }
+
+
+            $(this).siblings(".custom-file-label").addClass("selected").html(fileName);
+
+            document.getElementById('PreviewPhoto').src = window.URL.createObjectURL(this.files[0]);
+
+            document.getElementById('ImgURL').value = fileName;
+
+        });
+
+
+        function IsImageValid(fsize, fileExt) {
+
+            var error = "";
+            error = IsExtensionValid(fileExt);
+
+            if (error != "") {
+                return error;
+            }
+
+            error = IsFileSizeValid(fsize);
+            if (error != "") {
+                return error;
+            }
+
+            return "";
+
+        }
+
+        function IsExtensionValid(fileExt) {
+
+            if (fileExt != 'jpg' && fileExt != 'png') {
+                return "Only Jpeg or Png files are Accepted";
+            }
+
+            return "";
+        }
+
+        function IsFileSizeValid(fSize) {
+
+            var fSizeInKb = Math.round((fSize / 1024));
+
+            if (fSizeInKb > 100) {
+                return "Files Sized over 100 Kb are not Allowed";
+            }
+
+            return "";
+        }
+
+    </script>
+}
