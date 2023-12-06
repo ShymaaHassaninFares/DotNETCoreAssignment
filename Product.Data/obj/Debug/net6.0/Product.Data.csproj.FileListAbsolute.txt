@@ -1,0 +1,57 @@
+D:\Practice\.Net Core Web APP\Exercise\WebApplication1\Product.Data\bin\Debug\net6.0\Product.Data.deps.json
+D:\Practice\.Net Core Web APP\Exercise\WebApplication1\Product.Data\bin\Debug\net6.0\Product.Data.runtimeconfig.json
+D:\Practice\.Net Core Web APP\Exercise\WebApplication1\Product.Data\bin\Debug\net6.0\Product.Data.dll
+D:\Practice\.Net Core Web APP\Exercise\WebApplication1\Product.Data\bin\Debug\net6.0\ref\Product.Data.dll
+D:\Practice\.Net Core Web APP\Exercise\WebApplication1\Product.Data\bin\Debug\net6.0\Product.Data.pdb
+D:\Practice\.Net Core Web APP\Exercise\WebApplication1\Product.Data\bin\Debug\net6.0\Product.Domain.dll
+D:\Practice\.Net Core Web APP\Exercise\WebApplication1\Product.Data\bin\Debug\net6.0\Product.Domain.Model.dll
+D:\Practice\.Net Core Web APP\Exercise\WebApplication1\Product.Data\bin\Debug\net6.0\Product.Domain.pdb
+D:\Practice\.Net Core Web APP\Exercise\WebApplication1\Product.Data\bin\Debug\net6.0\Product.Domain.Model.pdb
+D:\Practice\.Net Core Web APP\Exercise\WebApplication1\Product.Data\obj\Debug\net6.0\Product.Data.csproj.AssemblyReference.cache
+D:\Practice\.Net Core Web APP\Exercise\WebApplication1\Product.Data\obj\Debug\net6.0\Product.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practice\.Net Core Web APP\Exercise\WebApplication1\Product.Data\obj\Debug\net6.0\Product.Data.AssemblyInfoInputs.cache
+D:\Practice\.Net Core Web APP\Exercise\WebApplication1\Product.Data\obj\Debug\net6.0\Product.Data.AssemblyInfo.cs
+D:\Practice\.Net Core Web APP\Exercise\WebApplication1\Product.Data\obj\Debug\net6.0\Product.Data.csproj.CoreCompileInputs.cache
+D:\Practice\.Net Core Web APP\Exercise\WebApplication1\Product.Data\obj\Debug\net6.0\Product.Data.csproj.CopyComplete
+D:\Practice\.Net Core Web APP\Exercise\WebApplication1\Product.Data\obj\Debug\net6.0\Product.Data.dll
+D:\Practice\.Net Core Web APP\Exercise\WebApplication1\Product.Data\obj\Debug\net6.0\ref\Product.Data.dll
+D:\Practice\.Net Core Web APP\Exercise\WebApplication1\Product.Data\obj\Debug\net6.0\Product.Data.pdb
+D:\Practice\.Net Core Web APP\Exercise\WebApplication1\Product.Data\obj\Debug\net6.0\Product.Data.genruntimeconfig.cache
+C:\Users\shymaa.hassanin\Desktop\net5tonet6\ProductApp\Product.Data\bin\Debug\net6.0\Product.Data.deps.json
+C:\Users\shymaa.hassanin\Desktop\net5tonet6\ProductApp\Product.Data\bin\Debug\net6.0\Product.Data.runtimeconfig.json
+C:\Users\shymaa.hassanin\Desktop\net5tonet6\ProductApp\Product.Data\bin\Debug\net6.0\Product.Data.dll
+C:\Users\shymaa.hassanin\Desktop\net5tonet6\ProductApp\Product.Data\bin\Debug\net6.0\ref\Product.Data.dll
+C:\Users\shymaa.hassanin\Desktop\net5tonet6\ProductApp\Product.Data\bin\Debug\net6.0\Product.Data.pdb
+C:\Users\shymaa.hassanin\Desktop\net5tonet6\ProductApp\Product.Data\bin\Debug\net6.0\Product.Domain.dll
+C:\Users\shymaa.hassanin\Desktop\net5tonet6\ProductApp\Product.Data\bin\Debug\net6.0\Product.Domain.Model.dll
+C:\Users\shymaa.hassanin\Desktop\net5tonet6\ProductApp\Product.Data\bin\Debug\net6.0\Product.Domain.pdb
+C:\Users\shymaa.hassanin\Desktop\net5tonet6\ProductApp\Product.Data\bin\Debug\net6.0\Product.Domain.Model.pdb
+C:\Users\shymaa.hassanin\Desktop\net5tonet6\ProductApp\Product.Data\obj\Debug\net6.0\Product.Data.csproj.AssemblyReference.cache
+C:\Users\shymaa.hassanin\Desktop\net5tonet6\ProductApp\Product.Data\obj\Debug\net6.0\Product.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shymaa.hassanin\Desktop\net5tonet6\ProductApp\Product.Data\obj\Debug\net6.0\Product.Data.AssemblyInfoInputs.cache
+C:\Users\shymaa.hassanin\Desktop\net5tonet6\ProductApp\Product.Data\obj\Debug\net6.0\Product.Data.AssemblyInfo.cs
+C:\Users\shymaa.hassanin\Desktop\net5tonet6\ProductApp\Product.Data\obj\Debug\net6.0\Product.Data.csproj.CoreCompileInputs.cache
+C:\Users\shymaa.hassanin\Desktop\net5tonet6\ProductApp\Product.Data\obj\Debug\net6.0\Product.Data.csproj.CopyComplete
+C:\Users\shymaa.hassanin\Desktop\net5tonet6\ProductApp\Product.Data\obj\Debug\net6.0\Product.Data.dll
+C:\Users\shymaa.hassanin\Desktop\net5tonet6\ProductApp\Product.Data\obj\Debug\net6.0\ref\Product.Data.dll
+C:\Users\shymaa.hassanin\Desktop\net5tonet6\ProductApp\Product.Data\obj\Debug\net6.0\Product.Data.pdb
+C:\Users\shymaa.hassanin\Desktop\net5tonet6\ProductApp\Product.Data\obj\Debug\net6.0\Product.Data.genruntimeconfig.cache
+D:\ITWorx\Academy\2023\ASP.NET CORE 6 FUNDAMENTALS\ProductApp\Product.Data\bin\Debug\net6.0\Product.Data.deps.json
+D:\ITWorx\Academy\2023\ASP.NET CORE 6 FUNDAMENTALS\ProductApp\Product.Data\bin\Debug\net6.0\Product.Data.runtimeconfig.json
+D:\ITWorx\Academy\2023\ASP.NET CORE 6 FUNDAMENTALS\ProductApp\Product.Data\bin\Debug\net6.0\Product.Data.dll
+D:\ITWorx\Academy\2023\ASP.NET CORE 6 FUNDAMENTALS\ProductApp\Product.Data\bin\Debug\net6.0\ref\Product.Data.dll
+D:\ITWorx\Academy\2023\ASP.NET CORE 6 FUNDAMENTALS\ProductApp\Product.Data\bin\Debug\net6.0\Product.Data.pdb
+D:\ITWorx\Academy\2023\ASP.NET CORE 6 FUNDAMENTALS\ProductApp\Product.Data\bin\Debug\net6.0\Product.Domain.dll
+D:\ITWorx\Academy\2023\ASP.NET CORE 6 FUNDAMENTALS\ProductApp\Product.Data\bin\Debug\net6.0\Product.Domain.Model.dll
+D:\ITWorx\Academy\2023\ASP.NET CORE 6 FUNDAMENTALS\ProductApp\Product.Data\bin\Debug\net6.0\Product.Domain.pdb
+D:\ITWorx\Academy\2023\ASP.NET CORE 6 FUNDAMENTALS\ProductApp\Product.Data\bin\Debug\net6.0\Product.Domain.Model.pdb
+D:\ITWorx\Academy\2023\ASP.NET CORE 6 FUNDAMENTALS\ProductApp\Product.Data\obj\Debug\net6.0\Product.Data.csproj.AssemblyReference.cache
+D:\ITWorx\Academy\2023\ASP.NET CORE 6 FUNDAMENTALS\ProductApp\Product.Data\obj\Debug\net6.0\Product.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITWorx\Academy\2023\ASP.NET CORE 6 FUNDAMENTALS\ProductApp\Product.Data\obj\Debug\net6.0\Product.Data.AssemblyInfoInputs.cache
+D:\ITWorx\Academy\2023\ASP.NET CORE 6 FUNDAMENTALS\ProductApp\Product.Data\obj\Debug\net6.0\Product.Data.AssemblyInfo.cs
+D:\ITWorx\Academy\2023\ASP.NET CORE 6 FUNDAMENTALS\ProductApp\Product.Data\obj\Debug\net6.0\Product.Data.csproj.CoreCompileInputs.cache
+D:\ITWorx\Academy\2023\ASP.NET CORE 6 FUNDAMENTALS\ProductApp\Product.Data\obj\Debug\net6.0\Product.Data.csproj.CopyComplete
+D:\ITWorx\Academy\2023\ASP.NET CORE 6 FUNDAMENTALS\ProductApp\Product.Data\obj\Debug\net6.0\Product.Data.dll
+D:\ITWorx\Academy\2023\ASP.NET CORE 6 FUNDAMENTALS\ProductApp\Product.Data\obj\Debug\net6.0\ref\Product.Data.dll
+D:\ITWorx\Academy\2023\ASP.NET CORE 6 FUNDAMENTALS\ProductApp\Product.Data\obj\Debug\net6.0\Product.Data.pdb
+D:\ITWorx\Academy\2023\ASP.NET CORE 6 FUNDAMENTALS\ProductApp\Product.Data\obj\Debug\net6.0\Product.Data.genruntimeconfig.cache
