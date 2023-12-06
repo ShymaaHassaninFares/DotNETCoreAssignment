@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "uDD6s8IVCyTmt7aWBpY9VCPFULfkqT3aBoUDfecIeJKib0rPMlvmk4u3fIETdwcWwUFDyiig9vFtvuU47sJ1IA==",
+  "success": true,
+  "projectFilePath": "D:\\ITWorx\\Academy\\2023\\ASP.NET CORE 6 FUNDAMENTALS\\ProductApp\\Product.Domain.Model\\Product.Domain.Model.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\shymaa.hassanin\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
+    "C:\\Users\\shymaa.hassanin\\.nuget\\packages\\autowrapper.core\\4.5.0\\autowrapper.core.4.5.0.nupkg.sha512",
+    "C:\\Users\\shymaa.hassanin\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\shymaa.hassanin\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

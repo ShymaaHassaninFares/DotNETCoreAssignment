@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = Product.Domain.Model
+build_property.ProjectDir = D:\Practice\.Net Core Web APP\Exercise\WebApplication1\Product.DomainModel\

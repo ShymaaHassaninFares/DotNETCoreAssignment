@@ -1,0 +1,35 @@
+D:\Practice\.Net Core Web APP\Exercise\WebApplication1\Product.DomainModel\bin\Debug\net6.0\Product.Domain.Model.deps.json
+D:\Practice\.Net Core Web APP\Exercise\WebApplication1\Product.DomainModel\bin\Debug\net6.0\Product.Domain.Model.dll
+D:\Practice\.Net Core Web APP\Exercise\WebApplication1\Product.DomainModel\bin\Debug\net6.0\ref\Product.Domain.Model.dll
+D:\Practice\.Net Core Web APP\Exercise\WebApplication1\Product.DomainModel\bin\Debug\net6.0\Product.Domain.Model.pdb
+D:\Practice\.Net Core Web APP\Exercise\WebApplication1\Product.DomainModel\obj\Debug\net6.0\Product.Domain.Model.csproj.AssemblyReference.cache
+D:\Practice\.Net Core Web APP\Exercise\WebApplication1\Product.DomainModel\obj\Debug\net6.0\Product.Domain.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practice\.Net Core Web APP\Exercise\WebApplication1\Product.DomainModel\obj\Debug\net6.0\Product.Domain.Model.AssemblyInfoInputs.cache
+D:\Practice\.Net Core Web APP\Exercise\WebApplication1\Product.DomainModel\obj\Debug\net6.0\Product.Domain.Model.AssemblyInfo.cs
+D:\Practice\.Net Core Web APP\Exercise\WebApplication1\Product.DomainModel\obj\Debug\net6.0\Product.Domain.Model.csproj.CoreCompileInputs.cache
+D:\Practice\.Net Core Web APP\Exercise\WebApplication1\Product.DomainModel\obj\Debug\net6.0\Product.Domain.Model.dll
+D:\Practice\.Net Core Web APP\Exercise\WebApplication1\Product.DomainModel\obj\Debug\net6.0\ref\Product.Domain.Model.dll
+D:\Practice\.Net Core Web APP\Exercise\WebApplication1\Product.DomainModel\obj\Debug\net6.0\Product.Domain.Model.pdb
+C:\Users\shymaa.hassanin\Desktop\net5tonet6\ProductApp\Product.Domain.Model\bin\Debug\net6.0\Product.Domain.Model.deps.json
+C:\Users\shymaa.hassanin\Desktop\net5tonet6\ProductApp\Product.Domain.Model\bin\Debug\net6.0\Product.Domain.Model.dll
+C:\Users\shymaa.hassanin\Desktop\net5tonet6\ProductApp\Product.Domain.Model\bin\Debug\net6.0\ref\Product.Domain.Model.dll
+C:\Users\shymaa.hassanin\Desktop\net5tonet6\ProductApp\Product.Domain.Model\bin\Debug\net6.0\Product.Domain.Model.pdb
+C:\Users\shymaa.hassanin\Desktop\net5tonet6\ProductApp\Product.Domain.Model\obj\Debug\net6.0\Product.Domain.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shymaa.hassanin\Desktop\net5tonet6\ProductApp\Product.Domain.Model\obj\Debug\net6.0\Product.Domain.Model.AssemblyInfoInputs.cache
+C:\Users\shymaa.hassanin\Desktop\net5tonet6\ProductApp\Product.Domain.Model\obj\Debug\net6.0\Product.Domain.Model.AssemblyInfo.cs
+C:\Users\shymaa.hassanin\Desktop\net5tonet6\ProductApp\Product.Domain.Model\obj\Debug\net6.0\Product.Domain.Model.csproj.CoreCompileInputs.cache
+C:\Users\shymaa.hassanin\Desktop\net5tonet6\ProductApp\Product.Domain.Model\obj\Debug\net6.0\Product.Domain.Model.dll
+C:\Users\shymaa.hassanin\Desktop\net5tonet6\ProductApp\Product.Domain.Model\obj\Debug\net6.0\ref\Product.Domain.Model.dll
+C:\Users\shymaa.hassanin\Desktop\net5tonet6\ProductApp\Product.Domain.Model\obj\Debug\net6.0\Product.Domain.Model.pdb
+C:\Users\shymaa.hassanin\Desktop\net5tonet6\ProductApp\Product.Domain.Model\obj\Debug\net6.0\Product.Domain.Model.csproj.AssemblyReference.cache
+D:\ITWorx\Academy\2023\ASP.NET CORE 6 FUNDAMENTALS\ProductApp\Product.Domain.Model\bin\Debug\net6.0\Product.Domain.Model.deps.json
+D:\ITWorx\Academy\2023\ASP.NET CORE 6 FUNDAMENTALS\ProductApp\Product.Domain.Model\bin\Debug\net6.0\Product.Domain.Model.dll
+D:\ITWorx\Academy\2023\ASP.NET CORE 6 FUNDAMENTALS\ProductApp\Product.Domain.Model\bin\Debug\net6.0\ref\Product.Domain.Model.dll
+D:\ITWorx\Academy\2023\ASP.NET CORE 6 FUNDAMENTALS\ProductApp\Product.Domain.Model\bin\Debug\net6.0\Product.Domain.Model.pdb
+D:\ITWorx\Academy\2023\ASP.NET CORE 6 FUNDAMENTALS\ProductApp\Product.Domain.Model\obj\Debug\net6.0\Product.Domain.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITWorx\Academy\2023\ASP.NET CORE 6 FUNDAMENTALS\ProductApp\Product.Domain.Model\obj\Debug\net6.0\Product.Domain.Model.AssemblyInfoInputs.cache
+D:\ITWorx\Academy\2023\ASP.NET CORE 6 FUNDAMENTALS\ProductApp\Product.Domain.Model\obj\Debug\net6.0\Product.Domain.Model.AssemblyInfo.cs
+D:\ITWorx\Academy\2023\ASP.NET CORE 6 FUNDAMENTALS\ProductApp\Product.Domain.Model\obj\Debug\net6.0\Product.Domain.Model.csproj.CoreCompileInputs.cache
+D:\ITWorx\Academy\2023\ASP.NET CORE 6 FUNDAMENTALS\ProductApp\Product.Domain.Model\obj\Debug\net6.0\Product.Domain.Model.dll
+D:\ITWorx\Academy\2023\ASP.NET CORE 6 FUNDAMENTALS\ProductApp\Product.Domain.Model\obj\Debug\net6.0\ref\Product.Domain.Model.dll
+D:\ITWorx\Academy\2023\ASP.NET CORE 6 FUNDAMENTALS\ProductApp\Product.Domain.Model\obj\Debug\net6.0\Product.Domain.Model.pdb

@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = Product.DomainModel
+build_property.ProjectDir = D:\Practice\REST .NET Core API\Exercise\ProductAPI\Product.DomainModel\
